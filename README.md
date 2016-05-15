@@ -1,10 +1,12 @@
 # hello-world
 
-In the editor, write a bit about yourself.
-Write a commit message that describes your changes.
-Click Commit changes button.
+GIT COMMOND:
 
-the second changes，
+1. git status
 
-the third changes。
+2. git add readme.txt
+
+3. git commit -m "wrote a readme file"
+
+4. git push origin master
 
